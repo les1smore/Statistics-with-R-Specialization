@@ -2,8 +2,23 @@
 
 ## If you failed to open one project, please reload again.
 
+### Project 1: "EDA_peer.html"
 
-### Project 1: "intro_data_prob_project.pdf"
+In this assignment, I was asked to imagine that I am a statistical consultant who has recently been hired by a real estate investment firm based in Ames, Iowa. They have had an intern collect and collate all of the recent house sales in Ames and have put together a large spreadsheet that contains the sale price of each house along with many of its physical features. My employers want me to take this data and develop a model to predict the selling price of a given home. They hope to use this information to help assess whether the asking price of a house is higher or lower than the true value of the house. If the home is undervalued, it may be a good investment for the firm.
+
+My employers are savvy and have been successfully investing in real estate for a long time but they hope a more model-based approach will help focus their search, improving efficiency and the bottom line. The firm plans to use a combination of my model and industry professional expertise to make its investment decisions. Because of this, the firm is not willing to accept a black box solution - they have specified that they must be able to understand the details of my model, including its strengths and its weaknesses.
+
+The goal of this assignment is to explore the data set that I will be using in my analysis of the housing market.
+
+I will create some graphs to help me explore. I will also look at whether there are missing values in the variables. Finally, there will be a model selection section in which I will select a regression model. Here I used Backward Elimination method to select the best fit model.
+
+
+
+
+
+
+
+### Project 2: "intro_data_prob_project.pdf"
 
 Use the Behavioral Risk Factor Surveillance System (BRFSS) dataset to identify three research questions:
 Research quesion 1: The relationship between female and their health quality.
@@ -16,7 +31,8 @@ This process contains numerical summaries and visualizations.
 
 
 
-### Project 2: "stat_inf_project.pdf"
+
+### Project 3: "stat_inf_project.pdf"
 
 Use the General Social Survey (GSS) dataset to identify a research question: The relationship between respondents’ education levels and their family income levels.
 
@@ -32,7 +48,8 @@ If applicable, state whether results from various methods agree
 
 
 
-### Project 3: "reg_model_project.pdf"
+
+### Project 4: "reg_model_project.pdf"
 
 Use the a movie dataset including information from Rotten Tomatoes and IMDB for a random sample of movies to complete exploratory data analysis (EDA), modeling, and prediction.
 The data set is comprised of 651 randomly sampled movies produced and released before 2016.
@@ -42,7 +59,8 @@ For example information in the the `actor1` through `actor5` variables was used 
 
 
 
-### Projct 4: "bayesian_project,pdf"
+
+### Projct 5: "bayesian_project,pdf"
 
 Use the same data set in Project 3, develop a Bayesian regression model to predict audience_score from the following explanatory variables.
 
