@@ -1,4 +1,4 @@
-# rproject
+# Statistics with R Specialization
 
 ## If you failed to open one project, please reload again.
 
